@@ -49,7 +49,7 @@ public sealed class TreeNode
     }
 }
 
-public class Solution
+public class Solution107
 {
     public IList<IList<int>> LevelOrderBottom(TreeNode root) {
         var record = new List<IList<int>>();

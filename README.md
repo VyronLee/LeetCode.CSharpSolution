@@ -1,1 +1,1 @@
-# LeetCode.CSharpSolution
+# LeetCode C# Solution
