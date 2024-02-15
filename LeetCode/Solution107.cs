@@ -1,4 +1,14 @@
-﻿//给你二叉树的根节点 root ，返回其节点值 自底向上的层序遍历 。 （即按从叶子节点所在层到根节点所在的层，逐层从左向右遍历）
+﻿// ------------------------------------------------------------
+//         File: Solution107.cs
+//        Brief: Solution107.cs
+//
+//       Author: VyronLee, lwz_jz@hotmail.com
+//
+//      Created: 2024-2-15 21:55
+//    Copyright: Copyright (c) 2024, VyronLee
+// ============================================================
+
+//给你二叉树的根节点 root ，返回其节点值 自底向上的层序遍历 。 （即按从叶子节点所在层到根节点所在的层，逐层从左向右遍历）
 //
 //
 //
@@ -36,46 +46,49 @@
 
 using System.Collections.Generic;
 
-public sealed class TreeNode
+namespace LeetCode
 {
-    public int val;
-    public TreeNode left;
-    public TreeNode right;
+    public class TreeNode
+    {
+        public int val;
+        public TreeNode left;
+        public TreeNode right;
 
-    public TreeNode(int val = 0, TreeNode left = null, TreeNode right = null) {
-        this.val = val;
-        this.left = left;
-        this.right = right;
-    }
-}
-
-public class Solution107
-{
-    public IList<IList<int>> LevelOrderBottom(TreeNode root) {
-        var record = new List<IList<int>>();
-        if (null != root) {
-            Traversal(root, record, 0);
+        public TreeNode(int val = 0, TreeNode left = null, TreeNode right = null) {
+            this.val = val;
+            this.left = left;
+            this.right = right;
         }
-        record.Reverse();
-        return record;
     }
 
-    private void Traversal(TreeNode root, List<IList<int>> result, int depth) {
-        if (null == root) {
-            return;
+    public class Solution107
+    {
+        public IList<IList<int>> LevelOrderBottom(TreeNode root) {
+            var record = new List<IList<int>>();
+            if (null != root) {
+                Traversal(root, record, 0);
+            }
+            record.Reverse();
+            return record;
         }
-        VisitNode(root, result, depth);
-        Traversal(root.left, result, depth + 1);
-        Traversal(root.right, result, depth + 1);
-    }
 
-    private void VisitNode(TreeNode root, List<IList<int>> result, int depth) {
-        if (null == root) {
-            return;
+        private void Traversal(TreeNode root, List<IList<int>> result, int depth) {
+            if (null == root) {
+                return;
+            }
+            VisitNode(root, result, depth);
+            Traversal(root.left, result, depth + 1);
+            Traversal(root.right, result, depth + 1);
         }
-        if (result.Count <= depth) {
-            result.Add(new List<int>());
+
+        private void VisitNode(TreeNode root, List<IList<int>> result, int depth) {
+            if (null == root) {
+                return;
+            }
+            if (result.Count <= depth) {
+                result.Add(new List<int>());
+            }
+            result[depth].Add(root.val);
         }
-        result[depth].Add(root.val);
     }
 }

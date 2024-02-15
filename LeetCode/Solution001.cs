@@ -4,7 +4,7 @@
 //
 //       Author: VyronLee, lwz_jz@hotmail.com
 //
-//      Created: 2024-2-15 21:35
+//      Created: 2024-2-15 21:55
 //    Copyright: Copyright (c) 2024, VyronLee
 // ============================================================
 
@@ -59,16 +59,19 @@
 using System;
 using System.Collections.Generic;
 
-public class Solution001
+namespace LeetCode
 {
-    public int[] TwoSum(int[] nums, int target) {
-        var visited = new Dictionary<int, int>();
-        for (var i = 0; i < nums.Length; i++) {
-            if (visited.ContainsKey(target - nums[i])) {
-                return new[] { visited[target - nums[i]], i};
+    public class Solution001
+    {
+        public int[] TwoSum(int[] nums, int target) {
+            var visited = new Dictionary<int, int>();
+            for (var i = 0; i < nums.Length; i++) {
+                if (visited.ContainsKey(target - nums[i])) {
+                    return new[] { visited[target - nums[i]], i};
+                }
+                visited.TryAdd(nums[i], i);
             }
-            visited.TryAdd(nums[i], i);
+            throw new Exception("Solution not found!");
         }
-        throw new Exception("Solution not found!");
     }
 }
