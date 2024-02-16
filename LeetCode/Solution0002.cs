@@ -50,17 +50,6 @@
 //
 // Related Topics 递归 链表 数学 👍 10382 👎 0
 
-
-public class ListNode
-{
-    public int val;
-    public ListNode next;
-    public ListNode(int val=0, ListNode next=null) {
-        this.val = val;
-        this.next = next;
-    }
-}
-
 namespace LeetCode
 {
     public class Solution0002
