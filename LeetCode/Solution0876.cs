@@ -59,14 +59,10 @@ namespace LeetCode
     {
         public ListNode MiddleNode(ListNode head) {
             var middle = head;
-            do {
-                if (null != head.next) {
-                    head = head.next;
-                    middle = middle.next;
-                }
-                head = head.next;
+            while (head != null && head.next != null) {
+                middle = middle.next;
+                head = head.next.next;
             }
-            while (null != head);
             return middle;
         }
     }
