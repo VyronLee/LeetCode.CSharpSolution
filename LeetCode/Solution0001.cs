@@ -1,6 +1,6 @@
 ﻿// ------------------------------------------------------------
-//         File: Solution001.cs
-//        Brief: Solution001.cs
+//         File: Solution0001.cs
+//        Brief: Solution0001.cs
 //
 //       Author: VyronLee, lwz_jz@hotmail.com
 //
@@ -61,7 +61,7 @@ using System.Collections.Generic;
 
 namespace LeetCode
 {
-    public class Solution001
+    public class Solution0001
     {
         public int[] TwoSum(int[] nums, int target) {
             var visited = new Dictionary<int, int>();

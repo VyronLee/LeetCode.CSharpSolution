@@ -1,6 +1,6 @@
 ﻿// ------------------------------------------------------------
-//         File: Solution002.cs
-//        Brief: Solution002.cs
+//         File: Solution0002.cs
+//        Brief: Solution0002.cs
 //
 //       Author: VyronLee, lwz_jz@hotmail.com
 //
@@ -63,7 +63,7 @@ public class ListNode
 
 namespace LeetCode
 {
-    public class Solution002
+    public class Solution0002
     {
         public ListNode AddTwoNumbers(ListNode l1, ListNode l2) {
             var root = new ListNode();

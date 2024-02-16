@@ -1,6 +1,6 @@
 ﻿// ------------------------------------------------------------
-//         File: Solution003.cs
-//        Brief: Solution003.cs
+//         File: Solution0003.cs
+//        Brief: Solution0003.cs
 //
 //       Author: VyronLee, lwz_jz@hotmail.com
 //
@@ -52,7 +52,7 @@ using System;
 
 namespace LeetCode
 {
-    public class Solution003
+    public class Solution0003
     {
         public int LengthOfLongestSubstring(string s) {
             var chars = new int[char.MaxValue];

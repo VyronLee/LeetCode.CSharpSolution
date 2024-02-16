@@ -1,6 +1,6 @@
 ﻿// ------------------------------------------------------------
-//         File: Solution107.cs
-//        Brief: Solution107.cs
+//         File: Solution0107.cs
+//        Brief: Solution0107.cs
 //
 //       Author: VyronLee, lwz_jz@hotmail.com
 //
@@ -61,7 +61,7 @@ namespace LeetCode
         }
     }
 
-    public class Solution107
+    public class Solution0107
     {
         public IList<IList<int>> LevelOrderBottom(TreeNode root) {
             var record = new List<IList<int>>();
