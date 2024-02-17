@@ -3,6 +3,7 @@
 ## 每日一题
 1. [x] [103. 二叉树的锯齿形层序遍历](https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal/?envType=daily-question&envId=2024-02-15)
 2. [x] [107. 二叉树的层序遍历 II](https://leetcode.cn/problems/binary-tree-level-order-traversal-ii/?envType=daily-question&envId=2024-02-16)
+3. [x] [429. N 叉树的层序遍历](https://leetcode.cn/problems/n-ary-tree-level-order-traversal/description/?envType=daily-question&envId=2024-02-17)
 
 ## LeetCode 75
 
@@ -81,3 +82,9 @@
 73. [ ] [452. 用最少数量的箭引爆气球](https://leetcode.cn/problems/minimum-number-of-arrows-to-burst-balloons/?envType=study-plan-v2&envId=leetcode-75)
 74. [ ] [739. 每日温度](https://leetcode.cn/problems/daily-temperatures/?envType=study-plan-v2&envId=leetcode-75)
 75. [ ] [901. 股票价格跨度](https://leetcode.cn/problems/online-stock-span/?envType=study-plan-v2&envId=leetcode-75)
+
+## 其他
+
+1. [x] [1. 两数之和](https://leetcode.cn/problems/two-sum/description/)
+2. [x] [2. 两数相加](https://leetcode.cn/problems/add-two-numbers/description/)
+3. [x] [3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/)
