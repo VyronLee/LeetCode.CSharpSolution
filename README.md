@@ -4,6 +4,7 @@
 1. [x] [103. 二叉树的锯齿形层序遍历](https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal/?envType=daily-question&envId=2024-02-15)
 2. [x] [107. 二叉树的层序遍历 II](https://leetcode.cn/problems/binary-tree-level-order-traversal-ii/?envType=daily-question&envId=2024-02-16)
 3. [x] [429. N 叉树的层序遍历](https://leetcode.cn/problems/n-ary-tree-level-order-traversal/description/?envType=daily-question&envId=2024-02-17)
+4. [x] [589. N 叉树的前序遍历](https://leetcode.cn/problems/n-ary-tree-preorder-traversal/description/?envType=daily-question&envId=2024-02-18) 
 
 ## LeetCode 75
 
