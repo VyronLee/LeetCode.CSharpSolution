@@ -27,7 +27,7 @@
 16. [x] [1004. 最大连续1的个数 III](https://leetcode.cn/problems/max-consecutive-ones-iii/description/?envType=study-plan-v2&envId=leetcode-75)
 17. [x] [1493. 删掉一个元素以后全为 1 的最长子数组](https://leetcode.cn/problems/longest-subarray-of-1s-after-deleting-one-element/?envType=study-plan-v2&envId=leetcode-75)
 18. [x] [1732. 找到最高海拔](https://leetcode.cn/problems/find-the-highest-altitude/?envType=study-plan-v2&envId=leetcode-75)
-19. [ ] [724. 寻找数组的中心下标](https://leetcode.cn/problems/find-pivot-index/?envType=study-plan-v2&envId=leetcode-75)
+19. [x] [724. 寻找数组的中心下标](https://leetcode.cn/problems/find-pivot-index/?envType=study-plan-v2&envId=leetcode-75)
 20. [ ] [2215. 找出两数组的不同](https://leetcode.cn/problems/find-the-difference-of-two-arrays/?envType=study-plan-v2&envId=leetcode-75)
 21. [ ] [1207. 独一无二的出现次数](https://leetcode.cn/problems/unique-number-of-occurrences/?envType=study-plan-v2&envId=leetcode-75)
 22. [ ] [1657. 确定两个字符串是否接近](https://leetcode.cn/problems/determine-if-two-strings-are-close/?envType=study-plan-v2&envId=leetcode-75)
