@@ -34,7 +34,7 @@
 22. [x] [1657. 确定两个字符串是否接近](https://leetcode.cn/problems/determine-if-two-strings-are-close/?envType=study-plan-v2&envId=leetcode-75)
 23. [x] [2352. 相等行列对](https://leetcode.cn/problems/equal-row-and-column-pairs/?envType=study-plan-v2&envId=leetcode-75)
 24. [x] [2390. 从字符串中移除星号](https://leetcode.cn/problems/removing-stars-from-a-string/?envType=study-plan-v2&envId=leetcode-75)
-25. [ ] [735. 小行星碰撞](https://leetcode.cn/problems/asteroid-collision/?envType=study-plan-v2&envId=leetcode-75)
+25. [x] [735. 小行星碰撞](https://leetcode.cn/problems/asteroid-collision/?envType=study-plan-v2&envId=leetcode-75)
 26. [ ] [394. 字符串解码](https://leetcode.cn/problems/decode-string/?envType=study-plan-v2&envId=leetcode-75)
 27. [ ] [933. 最近的请求次数](https://leetcode.cn/problems/number-of-recent-calls/?envType=study-plan-v2&envId=leetcode-75)
 28. [ ] [649. Dota2 参议院](https://leetcode.cn/problems/dota2-senate/?envType=study-plan-v2&envId=leetcode-75)
