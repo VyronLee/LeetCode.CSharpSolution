@@ -22,5 +22,14 @@ namespace LeetCode
         public static string DictToString<T, U>(Dictionary<T, U> dict) {
             return $"{string.Join(", ", dict.Select(kv => $"{kv.Key}: {kv.Value}"))}";
         }
+
+        public static string LinkedListToString(ListNode root) {
+            var list = new List<int>();
+            while (root != null) {
+                list.Add(root.val);
+                root = root.next;
+            }
+            return $"[{string.Join(", ", list)}]";
+        }
     }
 }
