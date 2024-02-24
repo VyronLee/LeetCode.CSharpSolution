@@ -42,7 +42,7 @@
 26. [ ] [394. 字符串解码](https://leetcode.cn/problems/decode-string/?envType=study-plan-v2&envId=leetcode-75)
 27. [x] [933. 最近的请求次数](https://leetcode.cn/problems/number-of-recent-calls/?envType=study-plan-v2&envId=leetcode-75)
 28. [x] [649. Dota2 参议院](https://leetcode.cn/problems/dota2-senate/?envType=study-plan-v2&envId=leetcode-75)
-29. [ ] [2095. 删除链表的中间节点](https://leetcode.cn/problems/delete-the-middle-node-of-a-linked-list/?envType=study-plan-v2&envId=leetcode-75)
+29. [x] [2095. 删除链表的中间节点](https://leetcode.cn/problems/delete-the-middle-node-of-a-linked-list/?envType=study-plan-v2&envId=leetcode-75)
 30. [ ] [328. 奇偶链表](https://leetcode.cn/problems/odd-even-linked-list/?envType=study-plan-v2&envId=leetcode-75)
 31. [ ] [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/?envType=study-plan-v2&envId=leetcode-75)
 32. [ ] [2130. 链表最大孪生和](https://leetcode.cn/problems/maximum-twin-sum-of-a-linked-list/?envType=study-plan-v2&envId=leetcode-75)
