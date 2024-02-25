@@ -47,7 +47,7 @@
 30. [x] [328. 奇偶链表](https://leetcode.cn/problems/odd-even-linked-list/?envType=study-plan-v2&envId=leetcode-75)
 31. [x] [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/?envType=study-plan-v2&envId=leetcode-75)
 32. [x] [2130. 链表最大孪生和](https://leetcode.cn/problems/maximum-twin-sum-of-a-linked-list/?envType=study-plan-v2&envId=leetcode-75)
-33. [ ] [104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/?envType=study-plan-v2&envId=leetcode-75)
+33. [x] [104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/?envType=study-plan-v2&envId=leetcode-75)
 34. [ ] [872. 叶子相似的树](https://leetcode.cn/problems/leaf-similar-trees/?envType=study-plan-v2&envId=leetcode-75)
 35. [ ] [1448. 统计二叉树中好节点的数目](https://leetcode.cn/problems/count-good-nodes-in-binary-tree/?envType=study-plan-v2&envId=leetcode-75)
 36. [ ] [437. 路径总和 III](https://leetcode.cn/problems/path-sum-iii/?envType=study-plan-v2&envId=leetcode-75)
