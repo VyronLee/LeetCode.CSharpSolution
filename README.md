@@ -12,6 +12,7 @@
 9. [x] [2583. 二叉树中的第 K 大层和](https://leetcode.cn/problems/kth-largest-sum-in-a-binary-tree/description/?envType=daily-question&envId=2024-02-23)
 10. [x] [2476. 二叉搜索树最近节点查询](https://leetcode.cn/problems/closest-nodes-queries-in-a-binary-search-tree/description/?envType=daily-question&envId=2024-02-24)
 11. [x] [235. 二叉搜索树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/?envType=daily-question&envId=2024-02-25)
+12. [x] [938. 二叉搜索树的范围和](https://leetcode.cn/problems/range-sum-of-bst/description/?envType=daily-question&envId=2024-02-26)
 
 ## LeetCode 75
 
