@@ -13,6 +13,8 @@
 10. [x] [2476. 二叉搜索树最近节点查询](https://leetcode.cn/problems/closest-nodes-queries-in-a-binary-search-tree/description/?envType=daily-question&envId=2024-02-24)
 11. [x] [235. 二叉搜索树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/?envType=daily-question&envId=2024-02-25)
 12. [x] [938. 二叉搜索树的范围和](https://leetcode.cn/problems/range-sum-of-bst/description/?envType=daily-question&envId=2024-02-26)
+13. [ ] [2867. 统计树中的合法路径数目](https://leetcode.cn/problems/count-valid-paths-in-a-tree/description/?envType=daily-question&envId=2024-02-27)
+14. [x] [2673. 使二叉树所有路径值相等的最小代价](https://leetcode.cn/problems/make-costs-of-paths-equal-in-a-binary-tree/description/?envType=daily-question&envId=2024-02-28)
 
 ## LeetCode 75
 
