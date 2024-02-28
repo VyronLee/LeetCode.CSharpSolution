@@ -56,7 +56,7 @@
 36. [x] [437. 路径总和 III](https://leetcode.cn/problems/path-sum-iii/?envType=study-plan-v2&envId=leetcode-75)
 37. [x] [1372. 二叉树中的最长交错路径](https://leetcode.cn/problems/longest-zigzag-path-in-a-binary-tree/?envType=study-plan-v2&envId=leetcode-75)
 38. [x] [236. 二叉树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/?envType=study-plan-v2&envId=leetcode-75)
-39. [ ] [199. 二叉树的右视图](https://leetcode.cn/problems/binary-tree-right-side-view/?envType=study-plan-v2&envId=leetcode-75)
+39. [x] [199. 二叉树的右视图](https://leetcode.cn/problems/binary-tree-right-side-view/?envType=study-plan-v2&envId=leetcode-75)
 40. [ ] [1161. 最大层内元素和](https://leetcode.cn/problems/maximum-level-sum-of-a-binary-tree/?envType=study-plan-v2&envId=leetcode-75)
 41. [ ] [700. 二叉搜索树中的搜索](https://leetcode.cn/problems/search-in-a-binary-search-tree/?envType=study-plan-v2&envId=leetcode-75)
 42. [ ] [450. 删除二叉搜索树中的节点](https://leetcode.cn/problems/delete-node-in-a-bst/?envType=study-plan-v2&envId=leetcode-75)
