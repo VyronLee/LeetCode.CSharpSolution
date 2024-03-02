@@ -62,7 +62,7 @@
 42. [x] [450. 删除二叉搜索树中的节点](https://leetcode.cn/problems/delete-node-in-a-bst/?envType=study-plan-v2&envId=leetcode-75)
 43. [x] [841. 钥匙和房间](https://leetcode.cn/problems/keys-and-rooms/?envType=study-plan-v2&envId=leetcode-75)
 44. [x] [547. 省份数量](https://leetcode.cn/problems/number-of-provinces/?envType=study-plan-v2&envId=leetcode-75)
-45. [ ] [1466. 重新规划路线](https://leetcode.cn/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/?envType=study-plan-v2&envId=leetcode-75)
+45. [x] [1466. 重新规划路线](https://leetcode.cn/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/?envType=study-plan-v2&envId=leetcode-75)
 46. [ ] [399. 除法求值](https://leetcode.cn/problems/evaluate-division/?envType=study-plan-v2&envId=leetcode-75)
 47. [ ] [1926. 迷宫中离入口最近的出口](https://leetcode.cn/problems/nearest-exit-from-entrance-in-maze/?envType=study-plan-v2&envId=leetcode-75)
 48. [ ] [994. 腐烂的橘子](https://leetcode.cn/problems/rotting-oranges/?envType=study-plan-v2&envId=leetcode-75)
