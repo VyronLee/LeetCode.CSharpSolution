@@ -16,6 +16,7 @@
 13. [ ] [2867. 统计树中的合法路径数目](https://leetcode.cn/problems/count-valid-paths-in-a-tree/description/?envType=daily-question&envId=2024-02-27)
 14. [x] [2673. 使二叉树所有路径值相等的最小代价](https://leetcode.cn/problems/make-costs-of-paths-equal-in-a-binary-tree/description/?envType=daily-question&envId=2024-02-28)
 15. [x] [225. 用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues/description/?envType=daily-question&envId=2024-03-03)
+16. [x] [232. 用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/description/?envType=daily-question&envId=2024-03-04)
 
 ## LeetCode 75
 
