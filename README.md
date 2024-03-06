@@ -17,6 +17,8 @@
 14. [x] [2673. 使二叉树所有路径值相等的最小代价](https://leetcode.cn/problems/make-costs-of-paths-equal-in-a-binary-tree/description/?envType=daily-question&envId=2024-02-28)
 15. [x] [225. 用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues/description/?envType=daily-question&envId=2024-03-03)
 16. [x] [232. 用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/description/?envType=daily-question&envId=2024-03-04)
+17. [ ] [1976. 到达目的地的方案数](https://leetcode.cn/problems/number-of-ways-to-arrive-at-destination/description/?envType=daily-question&envId=2024-03-05)
+18. [ ] [2917. 找出数组中的 K-or 值](https://leetcode.cn/problems/find-the-k-or-of-an-array/description/?envType=daily-question&envId=2024-03-06)
 
 ## LeetCode 75
 
