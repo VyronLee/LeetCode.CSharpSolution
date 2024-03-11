@@ -75,7 +75,7 @@
 48. [x] [994. 腐烂的橘子](https://leetcode.cn/problems/rotting-oranges/?envType=study-plan-v2&envId=leetcode-75)
 49. [x] [215. 数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/?envType=study-plan-v2&envId=leetcode-75)
 50. [x] [2336. 无限集中的最小数字](https://leetcode.cn/problems/smallest-number-in-infinite-set/?envType=study-plan-v2&envId=leetcode-75)
-51. [ ] [2542. 最大子序列的分数](https://leetcode.cn/problems/maximum-subsequence-score/?envType=study-plan-v2&envId=leetcode-75)
+51. [x] [2542. 最大子序列的分数](https://leetcode.cn/problems/maximum-subsequence-score/?envType=study-plan-v2&envId=leetcode-75)
 52. [ ] [2462. 雇佣 K 位工人的总代价](https://leetcode.cn/problems/total-cost-to-hire-k-workers/?envType=study-plan-v2&envId=leetcode-75)
 53. [ ] [374. 猜数字大小](https://leetcode.cn/problems/guess-number-higher-or-lower/?envType=study-plan-v2&envId=leetcode-75)
 54. [ ] [2300. 咒语和药水的成功对数](https://leetcode.cn/problems/successful-pairs-of-spells-and-potions/?envType=study-plan-v2&envId=leetcode-75)
