@@ -21,6 +21,7 @@
 18. [x] [2917. 找出数组中的 K-or 值](https://leetcode.cn/problems/find-the-k-or-of-an-array/description/?envType=daily-question&envId=2024-03-06)
 19. [x] [2575. 找出字符串的可整除数组](https://leetcode.cn/problems/find-the-divisibility-array-of-a-string/?envType=daily-question&envId=2024-03-07)
 20. [x] [2834. 找出美丽数组的最小和](https://leetcode.cn/problems/find-the-minimum-possible-sum-of-a-beautiful-array/description/?envType=daily-question&envId=2024-03-08)
+21. [x] [2129. 将标题首字母大写](https://leetcode.cn/problems/capitalize-the-title/description/?envType=daily-question&envId=2024-03-11)
 
 ## LeetCode 75
 
