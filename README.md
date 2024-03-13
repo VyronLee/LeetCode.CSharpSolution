@@ -23,6 +23,7 @@
 20. [x] [2834. 找出美丽数组的最小和](https://leetcode.cn/problems/find-the-minimum-possible-sum-of-a-beautiful-array/description/?envType=daily-question&envId=2024-03-08)
 21. [x] [2129. 将标题首字母大写](https://leetcode.cn/problems/capitalize-the-title/description/?envType=daily-question&envId=2024-03-11)
 22. [x] [1261. 在受污染的二叉树中查找元素](https://leetcode.cn/problems/find-elements-in-a-contaminated-binary-tree/description/?envType=daily-question&envId=2024-03-12)
+23. [x] [2864. 最大二进制奇数](https://leetcode.cn/problems/maximum-odd-binary-number/description/?envType=daily-question&envId=2024-03-13)
 
 ## LeetCode 75
 
@@ -78,7 +79,7 @@
 50. [x] [2336. 无限集中的最小数字](https://leetcode.cn/problems/smallest-number-in-infinite-set/?envType=study-plan-v2&envId=leetcode-75)
 51. [x] [2542. 最大子序列的分数](https://leetcode.cn/problems/maximum-subsequence-score/?envType=study-plan-v2&envId=leetcode-75)
 52. [x] [2462. 雇佣 K 位工人的总代价](https://leetcode.cn/problems/total-cost-to-hire-k-workers/?envType=study-plan-v2&envId=leetcode-75)
-53. [ ] [374. 猜数字大小](https://leetcode.cn/problems/guess-number-higher-or-lower/?envType=study-plan-v2&envId=leetcode-75)
+53. [x] [374. 猜数字大小](https://leetcode.cn/problems/guess-number-higher-or-lower/?envType=study-plan-v2&envId=leetcode-75)
 54. [ ] [2300. 咒语和药水的成功对数](https://leetcode.cn/problems/successful-pairs-of-spells-and-potions/?envType=study-plan-v2&envId=leetcode-75)
 55. [ ] [162. 寻找峰值](https://leetcode.cn/problems/find-peak-element/?envType=study-plan-v2&envId=leetcode-75)
 56. [ ] [875. 爱吃香蕉的珂珂](https://leetcode.cn/problems/koko-eating-bananas/?envType=study-plan-v2&envId=leetcode-75)
