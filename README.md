@@ -84,7 +84,7 @@
 54. [x] [2300. 咒语和药水的成功对数](https://leetcode.cn/problems/successful-pairs-of-spells-and-potions/?envType=study-plan-v2&envId=leetcode-75)
 55. [x] [162. 寻找峰值](https://leetcode.cn/problems/find-peak-element/?envType=study-plan-v2&envId=leetcode-75)
 56. [x] [875. 爱吃香蕉的珂珂](https://leetcode.cn/problems/koko-eating-bananas/?envType=study-plan-v2&envId=leetcode-75)
-57. [ ] [17. 电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/?envType=study-plan-v2&envId=leetcode-75)
+57. [x] [17. 电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/?envType=study-plan-v2&envId=leetcode-75)
 58. [ ] [216. 组合总和 III](https://leetcode.cn/problems/combination-sum-iii/?envType=study-plan-v2&envId=leetcode-75)
 59. [ ] [1137. 第 N 个泰波那契数](https://leetcode.cn/problems/n-th-tribonacci-number/?envType=study-plan-v2&envId=leetcode-75)
 60. [ ] [746. 使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/?envType=study-plan-v2&envId=leetcode-75)
